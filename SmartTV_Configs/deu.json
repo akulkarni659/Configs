@@ -106,8 +106,10 @@
     "MenusettingsEng": "Settings",
     "SettingsLanguage&AccessibilityEng": "Language & Accessibility",
     "LanguageEng": "German",
-    "GracePeriod": "2"
+    "GracePeriod": "2",
+    "PINLocked": "PIN gesperrt"
 }
+
 
 
 
